@@ -47,3 +47,8 @@ function pink()
 // {
 //     document.getElementById('web').style.display = "block"; 
 // }
+
+function myFunction()
+{
+    document.getElementById("myDropdown").classList.toggle("show");
+}
